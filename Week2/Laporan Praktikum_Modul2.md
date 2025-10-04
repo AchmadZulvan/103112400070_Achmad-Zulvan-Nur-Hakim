@@ -2,7 +2,7 @@
 <p align="center">Achmad Zulvan Nur Hakim - 103112400070</p>
 
 ## Dasar Teori
-DDasar teori mengenai manajemen memori terstruktur dalam C++ berfokus pada Array dan Pointer. Array didefinisikan sebagai koleksi elemen data sejenis yang disimpan secara berurutan, di mana konsepnya merupakan salah satu elemen dasar pemrograman. Struktur ini meluas dari Array 1 Dimensi hingga Array 3 Dimensi untuk merepresentasikan data kompleks (seperti matriks), dan secara teknis, hubungan Array dengan Pointer (sebagai implementasi pointer konstan yang memungkinkan aritmetika pointer) adalah lanjutan logis dari fondasi tersebut [1]. Sementara itu, Pointer adalah variabel khusus yang menyimpan alamat memori variabel lain, menjadikannya fitur inti yang mendukung sifat bahasa sebagai strongly typed dan berkontribusi pada keunggulan C++ dalam pembuatan berbagai jenis aplikasi [2]. Akhirnya, fitur Pointer ini juga esensial untuk implementasi fitur tingkat lanjut seperti Object-Oriented Programming (OOP) [3].
+Dasar teori mengenai manajemen memori terstruktur dalam C++ berfokus pada Array dan Pointer. Array didefinisikan sebagai koleksi elemen data sejenis yang disimpan secara berurutan, di mana konsepnya merupakan salah satu elemen dasar pemrograman. Struktur ini meluas dari Array 1 Dimensi hingga Array 3 Dimensi untuk merepresentasikan data kompleks (seperti matriks), dan secara teknis, hubungan Array dengan Pointer (sebagai implementasi pointer konstan yang memungkinkan aritmetika pointer) adalah lanjutan logis dari fondasi tersebut [1]. Sementara itu, Pointer adalah variabel khusus yang menyimpan alamat memori variabel lain, menjadikannya fitur inti yang mendukung sifat bahasa sebagai strongly typed dan berkontribusi pada keunggulan C++ dalam pembuatan berbagai jenis aplikasi [2]. Akhirnya, fitur Pointer ini juga esensial untuk implementasi fitur tingkat lanjut seperti Object-Oriented Programming (OOP) [3].
 ## Guided
 
 ### 1. Array 1 dimensi 
@@ -318,3 +318,4 @@ Praktikum ini berfokus pada Array untuk mengelola koleksi data homogen, termasuk
 [1] Dewi, L. J. E. (2010). Media Pembelajaran Bahasa Pemrograman C++. Jurnal Pendidikan Teknologi dan Kejuruan, 7(1), 63–72. https://ejournal.undiksha.ac.id/index.php/JPTK/article/download/31/25/94
 <br>[2] Amin, S. (2021). MAKALAH DASAR PEMROGRAMAN KOMPUTER “BAHASA PEMROGRAMAN C++”. OSF Preprints. https://osf.io/f697b/download/?format=pdf
 <br>[3] Hossain, S., Islam, S. M., Khan, H. A., Rifat, Z., & Uddin, M. A. (2023). An Overview on C++ Programming Language. ResearchGate.https://www.researchgate.net/publication/371166631_An_Overview_on_C_Programming_Language
+
