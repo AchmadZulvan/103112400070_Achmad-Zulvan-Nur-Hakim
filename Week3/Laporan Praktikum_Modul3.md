@@ -160,7 +160,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week2/Screenshot%20Output%20Unguided1_1.png)
+![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
 
 Program untuk menginput data (nama, NIM, nilai UTS, UAS, dan Tugas) mahasiswa secara berulang hingga maksimal 10 data, kemudian menghitung dan menampilkan nilai akhir.
 
@@ -221,7 +221,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week2/Screenshot%20Output%20Unguided1_1.png)
+![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
 
 Pprogram tersebut mengimplementasikan konsep modularitas dengan struct untuk membuat tipe data pelajaran yang menyimpan nama dan kode mata pelajaran, lalu menampilkannya di fungsi main.
 
@@ -291,7 +291,7 @@ void tukarNilaiptr(int *ptr1, int *ptr2) {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided3](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week2/Screenshot%20Output%20Unguided1_1.png)
+![Screenshot Output Unguided3](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided3.png)
 
 Program untuk menukar seluruh elemen antara dua buah matriks 3×3 (MatriksA dan MatriksB) secara pass-by-pointer melalui fungsi tukarNilaiptr yang dipanggil berulang di dalam fungsi tukarArrayptr..
 
@@ -301,3 +301,4 @@ Praktikum ini berfokus pada implementasi Abstract Data Type (ADT) melalui pemrog
 ## Referensi
 <br>[1] Hossain, S., Islam, S. M., Khan, H. A., Rifat, Z., & Uddin, M. A. (2023). An Overview on C++ Programming Language. ResearchGate.https://www.researchgate.net/publication/371166631_An_Overview_on_C_Programming_Language
 <br>[2] Amin, S. (2021). MAKALAH DASAR PEMROGRAMAN KOMPUTER “BAHASA PEMROGRAMAN C++”. OSF Preprints. https://osf.io/f697b/download/?format=pdf
+
