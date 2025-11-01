@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 5 - Duobly Linked List (Bagian Pertama)</h1>
+# <h1 align="center">Laporan Praktikum Modul 6 - Duobly Linked List (Bagian Pertama)</h1>
 <p align="center">Achmad Zulvan Nur Hakim - 103112400070</p>
 
 ## Dasar Teori
@@ -1088,3 +1088,4 @@ Praktikum ini menyimpulkan Doubly Linked List merupakan pilihan optimal dalam pe
 <br>[1] Setiyawan, R. D., Hermawan, D., Abdillah, A. F., Mujayanah, A., & Vindua, R. (2024). Penggunaan Struktur Data Stack dalam Pemrograman C++ dengan Pendekatan Array dan Linked List. JUTECH : Journal Education and Technology, 5(2), 485–496. https://jurnal.stkippersada.ac.id/jurnal/index.php/jutech/article/view/4263
 <br>[2] Wijoyo, A., Azzahra, A., Nabila, D., Silviana, F., & Lusiyanti. (2024). Perbandingan struktur linked list dan array dalam manajemen memori. JRIIN : Jurnal Riset Informatika Dan Inovasi, 1(12), 1290–1293. https://jurnalmahasiswa.com/index.php/jriin/article/view/957
 <br>[3] Anggraini, N., Zulfi, F., & Butarbutar, L. E. (2024). Menganalisis Tingkat Efisiensi Struktur Data Array Dan Linked List Untuk Mengelola Data Mahasiswa. Jurnal Kajian Ilmiah Multidisipliner, 8(10), 222–227. https://sejurnal.com/pub/index.php/jkim/article/download/4900/5677/10006
+
