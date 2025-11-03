@@ -7,30 +7,24 @@ int main() {
     CreateList(L);
     infotype data;
     address P;
-    string nopolHapus ="D003";
+    string nopolHapus; 
 
-    data = {"D001", "Hitam", 89}; 
+    data = {"D001", "hitam", 90}; 
     P = alokasi(data);
     insertLast(L, P);
 
-    data = {"D002", "Putih", 88}; 
+    data = {"D003", "merah", 70}; 
     P = alokasi(data);
     insertLast(L, P);
 
-    data = {"D003", "Merah", 99}; 
+    data = {"D004", "kuning", 90}; 
     P = alokasi(data);
     insertLast(L, P);
 
-
-    data = {"D004", "Biru", 98}; 
-    P = alokasi(data);
-    insertLast(L, P);
-
-    
-    cout << "Masukkan Nomor Polisi yang akan dihapus : " << nopolHapus << endl;
+    cout << "Masukkan Nomor Polisi yang akan dihapus : ";
+    cin >> nopolHapus; 
     
     deleteByNopol(L, nopolHapus); 
-
     
     cout << "\nDATA LIST 1" << endl;
     
