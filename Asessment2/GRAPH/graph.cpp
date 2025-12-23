@@ -86,7 +86,7 @@ void checkCriticalCities(Graph &G) {
             cout << "[PERINGATAN] Kota " << currentCheck->name << " adalah KOTA KRITIS!\n";
             cout << "-> Jika " << currentCheck->name << " lockdown, distribusi terputus.\n";
         } else {
-            cout << "Kota " << currentCheck->name << " aman (redundansi oke).\n";
+            cout << "Kota " << currentCheck->name << " aman.\n";
         }
         currentCheck->isLockdown = false; 
         currentCheck = currentCheck->nextNode;
